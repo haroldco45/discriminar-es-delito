@@ -1,12 +1,245 @@
 {
-  "actualizado": "2026-11-18T12:45:00-05:00",
-  "noticias": [
-    {"titulo": "Habló auxiliar de la Policía que fue víctima de racismo en Cali tras recibir homenaje de la Alcaldía", "url": "https://www.infobae.com/colombia/2026/11/17/hablo-auxiliar-de-la-policia-que-fue-victima-de-racismo-en-cali-tras-recibir-homenaje-de-la-alcaldia-que-no-le-vuelva-a-pasar-a-nadie-mas/", "fuente": "Infobae", "fecha": "2026-11-17T18:00:00-05:00"},
-    {"titulo": "Gobierno anuncia tres acciones por caso de racismo contra auxiliar de Policía en Cali", "url": "https://www.elpais.com.co/cali/gobierno-anuncia-tres-acciones-por-caso-de-racismo-contra-auxiliar-de-policia-en-cali-investigan-al-senalado-agresor-1752.html", "fuente": "El País Cali", "fecha": "2026-11-18T08:00:00-05:00"},
-    {"titulo": "“A las mujeres se les respeta”: concejales rechazan agresión contra auxiliar de Policía en Cali", "url": "https://www.elpais.com.co/amp/cali/a-las-mujeres-se-les-respeta-concejales-rechazan-agresion-contra-auxiliar-de-policia-en-cali-la-victima-se-pronuncio-1755.html", "fuente": "El País Cali", "fecha": "2026-11-17T20:00:00-05:00"},
-    {"titulo": "“El racismo no tiene cabida”: De la Espriella rechaza agresión a policía en Cali", "url": "https://www.elcolombiano.com/colombia/jazli-tatiana-carabali-por-que-fue-victima-de-racismo-CJ43684475", "fuente": "El Colombiano", "fecha": "2026-11-17T15:00:00-05:00"},
-    {"titulo": "La auxiliar Tatiana rompe su silencio tras los insultos racistas en Cali", "url": "https://www.minuto30.com/tatiana-carabali-insultos-racistas-cali/1731492/", "fuente": "Minuto30", "fecha": "2026-11-17T16:00:00-05:00"},
-    {"titulo": "Cali exalta a auxiliar de Policía tras presuntos actos de racismo y suspende al señalado", "url": "https://cwmas.com.co/suroccidente/cali/2026/11/17/racismo-cali-auxiliar-policia-suspension/", "fuente": "CW+", "fecha": "2026-11-17T12:00:00-05:00"},
-    {"titulo": "La calma fue su mejor respuesta: Cali homenajeará a la auxiliar Jazli Tatiana Carabalí", "url": "https://lalenguacaribe.co/2026/nacional/la-calma-fue-su-mejor-respuesta-cali-homenajeara-a-la-auxiliar-jazli-tatiana-carabali-tras-indignante-episodio-de-intolerancia/", "fuente": "La Lengua Caribe", "fecha": "2026-11-16T20:00:00-05:00"}
-  ]
+ "actualizado": "2026-11-18T12:46:02-05:00",
+ "noticias": [
+  {
+   "titulo": "'Desde ya': Ministerio del Interior, de Alejandro Ordóñez, confirma cambio en Colombia por auxiliar de Policía víctima de racismo",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQNzNSSF9pNGE0Q1llSThqNzBqaVNhUUxwcmpEODM4eHhhY0UxaTNCektGZ055QllkVl9YOVotQmw5S2t4V2NHMDk5WFpQcTdsYVZNc0VkWHJJaUR4ZTJhR3RTYXNWN3RwV2lQZW5EVWpRREo5V2lfZ2FvTE5YRHptTS1FeDgzRk16U2I0TFZqNDdsVGs4LUlEQUQzRGhJa2t1OUZtZ1JnQWpLZmJZeUZ6bnVyOXhsS0h2QWZlTzkwbXFmWkEyb0ZXanZsSk1qdmJhX25VNzRYVFlOOEttZW8wN2dacERlLXVVV1ZESnJ5eDFDSXZZVWtqQ2FXaGowSFlyVXoxUg?oc=5",
+   "fuente": "RED+ Noticias",
+   "fecha": "2026-11-18T12:09:38-05:00"
+  },
+  {
+   "titulo": "Gobierno anuncia tres acciones por caso de racismo contra auxiliar de Policía en Cali",
+   "url": "https://www.elpais.com.co/cali/gobierno-anuncia-tres-acciones-por-caso-de-racismo-contra-auxiliar-de-policia-en-cali-investigan-al-senalado-agresor-1752.html",
+   "fuente": "El País Cali",
+   "fecha": "2026-11-18T08:00:00-05:00"
+  },
+  {
+   "titulo": "Cali: Tatiana Carabalí, la auxiliar de Policía víctima de insultos racistas,hablo",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOekxkYnlaLWg1QmVoTUd4LUE5M3N2UE5PZ3ZSMHVhNjY2RVdpaWtTX2NwN3k5TUVxdHVEOWJXVVpLNEh5Z0ZhLTFwMlByM3dqQzg1SWZjVGV2R1BDb0Exejc4VWIxY1hwOHc4aXFfYWp5NTFLWkpVeHZrZFVMODZYTWNqOFhJQnpfSzJ2NkhJWGhZYnRHUDktbjJDSldmbE1nSFdvcXFmY3VDSWdQTWo2VExqQkhkSlVhZVE?oc=5",
+   "fuente": "Diario del Cauca",
+   "fecha": "2026-11-17T23:00:51-05:00"
+  },
+  {
+   "titulo": "El racismo no tiene lugar en Cali",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRlZ3QzYxNmZHWnc3WjdUa0UzMXpjOXhENzVESGdVQmVfR2R6R2Y5RklWLV9jRmhVd3lYTjJmTHJ4R0dpTWFpMFdtX21vNW1rLXYyNnhIU01GWlVlM29QUGl3V0xPVjdBX1N4cG96TWVnUXE2YTc4MnRZbEpPZi1ldzFhMjhRSHBL0gGIAUFVX3lxTE1GVndDNjE2ZkdadzdaN1RrRTMxemM5eEQ3NURIZ1VCZV9HZHpHZjlGSVYtX2NGaFV3eVhOMmZMcnhHR2lNYWkwV21fbW81bWstdjI2eEhTTUZaVWUzb1BQaXdXTE9WN0FfU3hwb3pNZWdRcTZhNzgydFlsSk9mLWV3MWEyOFFIcEs?oc=5",
+   "fuente": "El País",
+   "fecha": "2026-11-17T21:07:43-05:00"
+  },
+  {
+   "titulo": "“A las mujeres se les respeta”: concejales rechazan agresión contra auxiliar de Policía en Cali",
+   "url": "https://www.elpais.com.co/amp/cali/a-las-mujeres-se-les-respeta-concejales-rechazan-agresion-contra-auxiliar-de-policia-en-cali-la-victima-se-pronuncio-1755.html",
+   "fuente": "El País Cali",
+   "fecha": "2026-11-17T20:00:00-05:00"
+  },
+  {
+   "titulo": "Habló la patrullera de la Policía que recibió insultos racistas en Cali",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYk5iWVpqOEFPLWZkZlo3R0VJMnVfMV9rMWNDWlRYbjRkLU05cUpXNFpkZ0VKY0FNTThKV1Fhb2dBMEtUR0dYZ2hFN1lTYWlFN01HaDVPdkFjdlE2YUg0clU1aEpQNGpQZUVybHpVWmp2a1VvVDBrUmhJcnZYdjNibUtXQkhCMzUyZjdhN2NUTVJaWXI3NmRaYVNIRnNURzdxaFVmMHJCZmliUzU4US1nNzVpdHFrbjVHaTBBVnYwX1BMNlRRY2tzZXhn0gHKAUFVX3lxTFBiTmJZWmo4QU8tZmRmWjdHRUkydV8xX2sxY0NaVFhuNGQtTTlxSlc0WmRnRUpjQU1NOEpXUWFvZ0EwS1RHR1hnaEU3WVNhaUU3TUdoNU92QWN2UTZhSDRyVTVoSlA0alBlRXJselVaanZrVW9UMGtSaElydlh2M2JtS1dCSEIzNTJmN2E3Y1RNUlpZcjc2ZFphU0hGc1RHN3FoVWYwckJmaWJTNThRLWc3NWl0cWtuNUdpMEFWdjBfUEw2VFFja3NleGc?oc=5",
+   "fuente": "El Espectador",
+   "fecha": "2026-11-17T19:35:29-05:00"
+  },
+  {
+   "titulo": "Insultos racistas contra una auxiliar de Policía en Cali",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdVZIV093QUlxWlhCXzFueXpXNGQ5Wmt0ZElCR1BHYVJGdTByRnJXalItRjk1bTVhRGUyRXZxNGkyYmhqbVB0cU0tTWZBT2lUbFA4dWRRUWMxSDRvWVF4dTVqeEl6d0FLaDB6aEdsdnZCN2JfaEhTSnVjVzNpUTgxZVRIMWpyOHNaN0JNdVVfMGZSX3ZuNlFKa0d5bTExT1nSAaoBQVVfeXFMT3FMeDFKSDFSVFh5OG9YWlBqaUNDZ05EMTRxYzdKRFktZGEyVnk3RVRyR3ZVMW8xd1JMdXAwUnNKN3ljXzA3R3RZX2ZmNnFfTmdDTFRCMUc3UjBneUxrQ2FIRXhrX015eTZjQ1FlbVNQZ0Jiazl1alQwamJDTU1vdkFWbVRTc2gwRnk3aTVyVUNoeVluNUhxT2k2bURrYmlNMENzOThZTWR0T1E?oc=5",
+   "fuente": "Diario Occidente",
+   "fecha": "2026-11-17T19:28:37-05:00"
+  },
+  {
+   "titulo": "Gobierno anuncia plan de acción ante caso de racismo contra patrullera, Jazli Carabalí, en Cali",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb01WOUp6QXBuaDZSd1BzOUlYaUZBdDluRDRKczUzSFBkRXpwOWxWa01iYU8zdmdwaDVxdXJpMTVHZ19GdjFpMG1rUGswYWp6X3ZPdTZWSHhPeFJSbmRkbmFXODktQ3JvN1lnS01vajB0T2RqQ2lFVUJqd05Ibmw5RnYxMW5VbmlhSnh0blBoX0E4aUZad3VUV3VEYTZTSW9IRGlQZ3A4RC04VVJFcFhZb3dpcnhjX0d2R1NHdG1sTTZZendleGhr0gHbAUFVX3lxTE9WQmlETm0yeE5aWUlxRlRLbG9kdjRqUHNZVUttWWRhbHQ0dXIzX3NSY1UxejhyYW92ODY0UVRBYzZDWTVLT0s4U0N2bnk5aE4wRDlLaDd4ODdEZFA2bzVQQ1JPMEVKbmtJZjFmcHk4N1VtZm16Q0w0TkdScXQ5SG01YUdEdzlDT0FVVVhVc2kxZ1ZpanZmSGhtMjI4YldCYVBmd0VJOTlwS3U0dmwtbTZFa2hPTU94cDZQNWo3UU9wd2k3YkEzbldka21SOHZtWHBaVm5jUjBGVWgyaw?oc=5",
+   "fuente": "Caracol Radio",
+   "fecha": "2026-11-17T19:17:47-05:00"
+  },
+  {
+   "titulo": "Caso de racismo contra auxiliar de Policía en Cali: ¿qué sanciones enfrentaría el presunto agresor?",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYm9mSmhiNkZyTEdLaEFMTzdJZ1JjZVZzTHZCUkt3a0JGOUplSi1vUEJoTVZlaE1oVko0R0RLbElFVS1XWXM4UmZfcUNqT1ZBVzBIdmo1bFhuTGc4eFNQUXpTMWh5TXVYaDFjSkNpSkxSYVY5cGJDcF9fUHBsa2pCQnNiVXE4bHlPRFk0Z0FJUWk2NEZGSGxmZGpvS3hFVXg5VkdtY2dTVmctLTlrZmdTTlF3cWstVkU1NlVMMnZpNnNWcWdRQnBaY29HVG0xLWNvNUxoUVZuNExvNEdjYkFrUHRjWEdvWlHSAecBQVVfeXFMTmJvZkpoYjZGckxHS2hBTE83SWdSY2VWc0x2QlJLd2tCRjlKZUotb1BCaE1WZWhNaFZKNEdES2xJRVUtV1lzOFJmX3FDak9WQVcwSHZqNWxYbkxnOHhTUFF6UzFoeU11WGgxY0pDaUpMUmFWOXBiQ3BfX1BwbGtqQkJzYlVxOGx5T0RZNGdBSVFpNjRGRkhsZmRqb0t4RVV4OVZHbWNnU1ZnLS05a2ZnU05Rd3FrLVZFNTZVTDJ2aTZzVnFnUUJwWmNvR1RtMS1jbzVMaFFWbjRMbzRHY2JBa1B0Y1hHb1pR?oc=5",
+   "fuente": "Noticias Caracol",
+   "fecha": "2026-11-17T18:16:19-05:00"
+  },
+  {
+   "titulo": "Habló auxiliar de la Policía que fue víctima de racismo en Cali tras recibir homenaje de la Alcaldía",
+   "url": "https://www.infobae.com/colombia/2026/11/17/hablo-auxiliar-de-la-policia-que-fue-victima-de-racismo-en-cali-tras-recibir-homenaje-de-la-alcaldia-que-no-le-vuelva-a-pasar-a-nadie-mas/",
+   "fuente": "Infobae",
+   "fecha": "2026-11-17T18:00:00-05:00"
+  },
+  {
+   "titulo": "Alcaldía exalta a auxiliar de Policía tras presunto racismo en Cali y suspende al señalado",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQM1NObVJzSXJpZ1U5Rk5HOFpNWWU4Vm9GWWNfal9ZTGJNLUFRTUJHczM5WEQ4Y212bnRsRVBacWNzTVFVa2QxajJMbXBUWmhqZEwySUJUQ3FXcURqVjE5dEgzMXlwUi1jeFpUWVZSME9VSUdJd29Zb2ozOWM2Zl9HcTkzNFB5MHVaZ2I2aktaUHljTXZ5N1E?oc=5",
+   "fuente": "CW+ Noticias",
+   "fecha": "2026-11-17T17:25:55-05:00"
+  },
+  {
+   "titulo": "“¡El racismo y la discriminación no tienen cabida en Colombia!”: De la Espriella rechaza agresión contra patrullera en Cali",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVzdUTVJmQl9SeDFOb21jbW41TUQxSHBRTHZTaFVHMm9qWWdubldWREJlSlZLbXktRXFMNlZmZkR5WkJNY2VzVDBRV19HSkhCODExcEtHdHMwZG9zY2ZpNkNJOUtQM0NLLUcyOUNUOU1DZndvQjY4WkJIeUw4UkJ5NVdzLTlVM2NOc3FGaWN5d3ZkUU83MDdBUnl2S2Q1a1pRTzRLWWFNVXZhY1JFcDNBU1dkTXpUeWttazNrbzVPWWhKcXdua2VqUXlrbTBqM2M2TXdNVzBEQTQzXy02NGQ0M2FfVFJCOVlQWi1sS0pkVTNNMS1kY3hB?oc=5",
+   "fuente": "ELHERALDO.CO",
+   "fecha": "2026-11-17T17:20:57-05:00"
+  },
+  {
+   "titulo": "\"Que no vuelva a pasar con nadie más\": habló la patrullera víctima de racismo en Cali; el señalado agresor sería colaborador de la Alcaldía",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWmhuMkJGTXY1UDJZYXFCTzFZTlNlY0ZNYVBJUkRmWlhZNWwtQ1g0T1JuTVpOSnhjQ0c2MXRhSFhaWEFUakVaT2pwODJuUGlDSHhKWVlUQmNIS1NFU1pDX1NUYkhheDN6aC1WQnNsWjRrSGlFaW5IRzdvc1cyS1hUbnJKUHY1UW1OMU43eUx1amphQWgxeGdqNHl2cVpXcHl6RXlzN1JYdnRJZnVXdmpKN0hrY1dCSmVWRW5SUVBLWjVhOWs4cHhzemJpV2RFb2pwc0RlRnltZEdtS3RtcnczeWxLTy1JWS1iSUVGa3RCMzc1bHBydkNjSDJyVC0yQmI2NERzd1N3TVY1U3gt0gGYAkFVX3lxTE9HWDJBbGVnT0RHVFMxaVFXdVh6NXQ3dGI0QkZLT3EzSTRqcVhYcTRSdV9veXZCczZVMGJWeTlvYVNQSWlCNHFBTDZYTVp1N2ZpaFhLX09sb1ZOTFRPdV81YlFtcTFRNE9vZ2tjRzgxenVFdU9QcVIzcW9qSVNBcXF0YklqTi0yMFBjZ20xaUgxT1JUSzFnd0x2enh3RWxzQ3pZMFp0ZVQ4SllTVmxYamlnUkc2eENQeDFxSkNuTXFvNUQ1YjVEYUROMks0TDQyaGZ6VTVZcnlvbVRGdnZWWDAwVUxheHh5Z1BBUzRZMGViTjFVVnE0WEhXdTl0Z3E1T3FIZHhEQzZZbnFqQlpTSFduTXBfaXVpbFk?oc=5",
+   "fuente": "Teleantioquia",
+   "fecha": "2026-11-17T17:04:54-05:00"
+  },
+  {
+   "titulo": "¿Racismo en Señorita Colombia? La elección de Verónica Hernández desató críticas en redes",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSDhrWWlSQlpWcnJQYmFaTENIa1p5RmxHUzZOaTg5NTZFN0tWcFpxenZ6SUhPWDBxd211TVBPWTdaVHFVYVdWVl8tcXN4SHdoemw2T3Vzc2R1UEpzZGFHRFhfTWVORDdOcHBoV0FMX0wwek5UR3kwd1BlQjdBNldWdjFwNl9hT3Etbm55T1doMTBwNC1WLV9wZUFIUW1vd1Jway1hNlFETGlMQ2pUNTNqYnZnZ2FnVkZmNVE?oc=5",
+   "fuente": "La Opinión Cúcuta",
+   "fecha": "2026-11-17T16:52:47-05:00"
+  },
+  {
+   "titulo": "La auxiliar Tatiana rompe su silencio tras los insultos racistas en Cali",
+   "url": "https://www.minuto30.com/tatiana-carabali-insultos-racistas-cali/1731492/",
+   "fuente": "Minuto30",
+   "fecha": "2026-11-17T16:00:00-05:00"
+  },
+  {
+   "titulo": "“Que no le pase a nadie más”: patrullera víctima de racismo en Cali rompe el silencio",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS1RjS2s0SURYUkRyazVRdUVEWXpseWRqY2ZFYW1xUUNjWjRTZnMyODYxM093TFIwVGlrY0NSMXZQTE1xdlNNYWZ3bGwxcTZ0bFZkeGVwMnJKaUE0NXVVYzdQYXJKanZ2dEtzdGgtSi02SmlHdW9tVnN1bHJOSmFuQzlwZG4xSUJfSmlaZ3pEY0ZyQ1hsbE5XUUhHOC1uMjFaSzA1WjFpTmxsNHZvM2RqVjdqRGxZOG9KQWdVeFk2Zlo?oc=5",
+   "fuente": "Diario La Libertad",
+   "fecha": "2026-11-17T15:50:44-05:00"
+  },
+  {
+   "titulo": "¿Quién es el hombre señalado de lanzar insultos racistas contra una patrullera en Cali?",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV1hRbVhVUFpvWUc4VjY4WEpUQkZQbU1feWFwcHg5b01saFJjVlppUDc5WGJTV2NtcXczd2Y4Z191TzRTbDdQWXhvdVp5RWZMYzRPUUpVS3hmOVVlQnF3NzBqSkUzamR2MnVJazdoZEZ4Rm1wb1BvTHo1RXRoTGp5TlVUWmRPbFQ1aUtEZ3hJUmlDMlBkcTlhRkZpbGpsZw?oc=5",
+   "fuente": "Minuto60",
+   "fecha": "2026-11-17T15:46:06-05:00"
+  },
+  {
+   "titulo": "Presidente Abelardo De La Espriella se pronunció tras un ataque racista contra patrullera en Cali: 'Nadie puede sentirse con derecho a humillar'",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQZkZWWHA3S3lVak1HMTFRMHhra3A4QUlNZndFWUpkRDZpYWZhdlpRa2E2Q0V6SHd2M3AxdmI4bHJHYVhiZlVudmluczVYOHpqNFJFZnRvX2ZVbXl6ZGNvQzBRNnZKMlNJX1cwcWNhbWtMQi1ydnB4QkpOMTBETmJIYlhBTkhPNUhyS3NhYlJFdmJJdFhuMlh3eWdPRVk1RG81Rjc3TW5tQTNDNTM3QnUzcmNNb1l4VWxwQWsteUpfNjEyVjRVR0dSQmg2b1hKR1ZVVmtlckFjWkZ1eFdyMnNNWlVzb01OUUtmNFU5ZzBDYTBMa2swbE5fRVpGbEZLa3ZDS0JhQ1o5UXc2bERsT090b0RyWmJySW1RLVZXSkM5c1VFU04zVEY2TzBOMHQ2cTJQR0dEdFBn0gG7AkFVX3lxTE1DbDJQRGR6S0FjVk12RklqZElqV3VnWTRIRHNacTN4TlE2TExBS1oyOUZSVHRhQ25nRi1hbllIZ0Q2Z0JYR2hUZEdMSWFMOWZnZFpULXFQSEFfWXZoYi0tUnpZdnFqeWtxaFdGZ1Fsai0tQjA5cllzWXJqT3ZzZVhmd3llQnRvcDlJaFZjQjZwbUEzQjJrQ2s0eDdWMVpQc3ZHS2lGSTVNSXBqbFp4bWJBZ2Y2ZDhfbXNsUDlnR3pOYzd5UVNJRmhIRVVJOFRGUGZ0MDdlNnllOUJET2JCUUNBNk1qMnlKODFiYmRuWUJEd0hpeDVsMFBhX1RTeS1pZF85Nld2NzRWdFEySDc3R3YxS0VEVno2MGotQVQ4RGFWd3ZCVjZjTGJMR0VPUzdwajg2QndCQWpnYTdvNA?oc=5",
+   "fuente": "El Tiempo",
+   "fecha": "2026-11-17T15:37:27-05:00"
+  },
+  {
+   "titulo": "Ataque racista a patrullera en Cali: Eder y De La Espriella se pronuncian",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iR3dlV19mQ2tJMjJiQ1ZlYlI0azBpN04tRE1UV29oUUwxcFVoMGNqbHVkck9xWFZIM3M5bmdmbFBEVEtNTC1wV1VSN2Y0aE14SFNCYzJmOHBYS3lROTAwTlNPU2MwejlKcXdFem11NUp6Y25RRmp3ZGN6UQ?oc=5",
+   "fuente": "Estrella Digital Colombia",
+   "fecha": "2026-11-17T15:37:27-05:00"
+  },
+  {
+   "titulo": "Presidente De La Espriella ordena acompañamiento psicológico y jurídico para auxiliar de Policía víctima de racismo en Cali",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOX3p3ZFVJYjFmblRZOWd5ZHZzbTJtLWNOa0ozMWJ1WFE4X1ZEel9Zb2QybS00MmNuTzhQS0lhZDgxdVVtS1VOS2JuQXY4dVdqaVQydm5qNTlaMklDSi1qQ3JpR0NFSHVDYVhqWVhtNVFhQUItZy1vcU5HTFRUb2M3ZVEwQXg1XzRqUVl2NkVHeldjTVl3TEUwb1RNenFSYjVfOW5qYllNTC1iVHBhTGxKa9IBsAFBVV95cUxPUUNpMWpXSldzUFNQcXJ6enQzNFVlN1YtcnhwU1Y2R28wYl9TREQtN0laNkVJTjJocUJhenZpbTZ0VjhVRm5KeFdGLS1PcnFkQ0otMk9xYjlQbGxqQnpqYmh5ZUdVaDBPQm5pZHZLV2JJNTBIajVOZDh2X2VFT09DTW1xU2VRQUo3UXE3UVdwdy1fbDhrUXhDU1I5VThCSHdNLTZteHpuWWIyX1FGWnItcg?oc=5",
+   "fuente": "La FM",
+   "fecha": "2026-11-17T15:29:23-05:00"
+  },
+  {
+   "titulo": "“El racismo no tiene cabida”: De la Espriella rechaza agresión a policía en Cali",
+   "url": "https://www.elcolombiano.com/colombia/jazli-tatiana-carabali-por-que-fue-victima-de-racismo-CJ43684475",
+   "fuente": "El Colombiano",
+   "fecha": "2026-11-17T15:00:00-05:00"
+  },
+  {
+   "titulo": "'Que no le pase a nadie mas': rompió el silencio Tatiana Carabalí, patrullera victima de racismo en Cali",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmd1T1BBcFVDa1VnR1lmOFFlUmNCQnRxaHBDS1hhWUNrNTV5NU5yUlZPUFdRZG41X1h0c3hlcmxRd0xQMHJZUUNmSFhVMDJ5aFM4T2RJOVk1SHk0ekhUUWY2SkZJR1BGek1PRkdraFhFSGkzdHpFbUVEck1iR1EtMkNnOVhuWmFlcC1jaFJFR3l4aXR5bGczYkNkRkJUZ9IBngFBVV95cUxONXlVbUExU2d3cDV3QzlfNkVWeUFrbXBaQzdyMHFsQ2J0TUhsbmtEaXhRcS00cHRZYVJreEdZcldIOFBQOTRiRWtONjFRR1dsTkVjWDRaWVQ5UWJkcEZGNWpMMTNNN0MwWmYxWWQzdk9VT0ItSlZZeGxvOS03YlJCekRxS0dNVThiNUhrUWNyYzFZbHIzelNHeVVSYjZyQQ?oc=5",
+   "fuente": "La FM",
+   "fecha": "2026-11-17T14:43:16-05:00"
+  },
+  {
+   "titulo": "Patrullera víctima de racismo en Cali presentó denuncia",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM3U5LTJNdzFNWkxGWHlOMUo1d2dQQlhXN1Rwa2hUVkhkUGd4bGkxTEVTdEwyU0ZsWXV1c3Z6UVdQV2xWS3VFYjNDX1RwWHpmd293LW9wejlJeGNqaVZSX3l3Nk1tQ1k3aFBTT3R0VTZ4SjM1VjlMNk1ibndRZnItTWxJY3R4b01seHk3MkhBQ0s?oc=5",
+   "fuente": "El Norte Hoy",
+   "fecha": "2026-11-17T14:34:00-05:00"
+  },
+  {
+   "titulo": "Ella es Jazlí Carabalí, la auxiliar de Policía que fue discriminada en Cali: alcalde Eder le hizo un homenaje",
+   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONzRkakNvRmZFSFl3NGVkOWF4R29kMnRaa1ZXLUJDSW90RTdtc2I2TDIteHN4cGNXNTJYUGpEQk9aLW9STkN5T0JKNlBOQzA2V2tWT0RVc0VPSjVvWkUydExIU19BVGxXSTd6bDdtRUdKdWZoZTA1NEhQdE1yd1J2SlpoUmRJamxLMndGZi1YNDc4Rm4tQXU3MXhDSlQ0ZWVKeDF2Y0RCckxWX1JyVHFHa1ZsLVY4X1pFNEt6WGR6NkpfY3lRaVdtOURqMEI1UHFnMTdHZ3RVQzVZYjlURkdhNFFYTG5MaHY0c25MSl85VEU?oc=5",
+   "fuente": "Revista Semana",
+   "fecha": "2026-11-17T14:15:10-05:00"
+  },
+  {
+   "titulo": "Patrullera agredida con insultos racistas en Cali rompió el silencio: esto dijo sobre lo ocurrido",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdm5USDVMdWxIS1pmU2xMLWsyaG5aV2gweHdXMDkza1p1NXFYVU1MQThwcHRqdk9fT2hSYWpGMUdCcFQ2bkg5NGliVUxoeFdPNFNXVW5mOE8tRW5CQ3pUcG9tNmdLQkNVSzRlMWpiRjlsdVlfbGtSdkhjZ0hYS05jUjk1ZnI2YlVHYUxWT3M4dDcyU3VvdDF5TUNNWWF1dEJCcTBCMGxYbGYxSy1JczB1aEJVRVdFYzByc0lqYXhZQ2J5MFdWRHd3Y1RlakZoeTU5YXdkTkU5ZTLSAdgBQVVfeXFMUHZuVEg1THVsSEtaZlNsTC1rMmhuWldoMHh3VzA5M2tadTVxWFVNTEE4cHB0anZPX09oUmFqRjFHQnBUNm5IOTRpYlVMaHhXTzRTV1VuZjhPLUVuQkN6VHBvbTZnS0JDVUs0ZTFqYkY5bHVZX2xrUnZIY2dIWEtOY1I5NWZyNmJVR2FMVk9zOHQ3MlN1b3QxeU1DTVlhdXRCQnEwQjBsWGxmMUstSXMwdWhCVUVXRWMwcnNJamF4WUNieTBXVkR3d2NUZWpGaHk1OWF3ZE5FOWUy?oc=5",
+   "fuente": "El País",
+   "fecha": "2026-11-17T13:50:14-05:00"
+  },
+  {
+   "titulo": "Tatiana Carabalí narra ataque racista en Cali y denuncia agresor",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTHlOTXUzZzNrM3BtcGVqR25RQlQtZTNMR1JjRE90bzJnOS15VGl6emtEdGtyOGRPVXpxWEpBdGo2R2NVUnQtRzU3WWc4cFc4VDUwekZwa05ROW9wVHVRVHRLNWgwY2ZiMmVidFBkeG9YUFM0NTdNY1AyUUlQM2JiTnhhbw?oc=5",
+   "fuente": "Estrella Digital Colombia",
+   "fecha": "2026-11-17T13:44:09-05:00"
+  },
+  {
+   "titulo": "Presidente De la Espriella rechaza insultos racistas contra una auxiliar de Policía en Cali",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYTdRenY2SE5DeGRJRU1iZExYaTBoUkhob2M1Umx2dUJ0dnpLN0hYYXUwMks1amNNVmFoYmJWN285TEp1anE1Y2xLWTRpT3FOeFR4WGZJZldPOWNtMzlfWVlFVk9Tc2MwbldTSkRZLW84clNHS2J1cWVJZGVkbTVMdTVJTW0wT2U4OEFEZVRYOVRQS0lBdmZXTXA0TGllU0pUZ05RZFZhTDVUQlFrY01TcDRscjBXMGpaTGRMOHlFYk8xUQ?oc=5",
+   "fuente": "laopinion.com.co",
+   "fecha": "2026-11-17T13:43:10-05:00"
+  },
+  {
+   "titulo": "Clásica reunió a 190 ciclistas para apoyar Roldanillo",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMEhLWkUxQjBLWXRtblRRSGVwNFNEU0RSdTd2ejBTdkdTdktvQlFzdUlscEN2a1g0UE95Skd5WkFLUXZZMkpKYmx5REFUTWNwNWRQSTk4bXVHLUtWbXZxa2czQWdfWlBkUHJmOE04VGg0WExpMU5YU1FxMDMzNk9xMEdPTnFKc1g4R0xYcWFvcw?oc=5",
+   "fuente": "Proclama del Pacifico",
+   "fecha": "2026-11-17T13:35:08-05:00"
+  },
+  {
+   "titulo": "Auxiliar de la Policía Nacional agredida con insultos racistas en Cali revela el detonante del ataque: 'Con nadie más'",
+   "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYmpTOTJsd3ZqZjljY3RfOEMyQWN1dG1RcHJibjdfVUo5b09QSVVKNnFRemJnVlkyUEt3MFFwcFNsTlk0QlI3eFFacVNwSnIwZ1pUMVNRaWtudkJhc3R2bkNfV1U2cjRsLTJObzVnZmpSRlQ2ZENScThHWnV5YjRHbVI3d2hlMGxnSFlwQ2czUjR3di1yaVdEX3pKVkgzQS1DWjE3T0RJNFdldTM0aEw3SkFCODUtcXFNVE5kVkxZYUE2MVBxOXZKbmJ2bUhZWWdNcDVvaEt4aWdCTDZENUV3TnR2MTVwNGtiSXhEODdMNHpWeTg1N0ZPLQ?oc=5",
+   "fuente": "RED+ Noticias",
+   "fecha": "2026-11-17T13:25:22-05:00"
+  },
+  {
+   "titulo": "Cali reconoce a Jazli Carabalí tras agresión racista",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMlZGX0lNdDBwQ1ZUS0dmaENSdzUtTHZwRGhKTlhqbkszVGtzVm90d0dIT1lwbWJseXkzUG5ZU1FuZFRHd0V4UTdLOW5jR1dWX1EtVV8wejI1TFhDaTIycFRWb1Ixamx1aXVUTEc0aFUtdmx6dGdKazJTeHV0X1NBQjRIVFJMendaZXZHdWRB?oc=5",
+   "fuente": "Proclama del Pacifico",
+   "fecha": "2026-11-17T13:09:40-05:00"
+  },
+  {
+   "titulo": "Habló Tatiana Carabalí, auxiliar de la Policía víctima de ataque racista en Cali: dio detalles sobre el hecho y anunció denuncia contra agresor",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQMGNpa1JuSUNFN3FCRzQ0RF9TS2F5WUY4X1h0UmtJcGc2RlF2cTIzM1JESFFoS29RQUhReFR1TURmUDZxY1FlX2RLcFlGY2FOdWtTLXRnNnZld2tBT2wzbV9KMFBjdko2WnhudTNpbV9kRklRenI4clZnQVNxaGU2VVVnbkh5VUJEc3I1dTdFSlNIXzBaVE5CelBTYmpVUlBSYk5xTThLM2J0c0dGc2tLbU9xVkl5UFNtQ0sxS01BaURFdnh3cUVWWHd0MEcxVEtnUmlnRzhaUlpmSHpiWkJzOUlqQVpJcG1rZmJhVThGcE9mbE5BNElIdmRfU2lfVGNMc0R1bWptbjduTmJZN290cUNZU01HMzDSAZwCQVVfeXFMTi1UcTlnbVBrekJsaWo0X1NYVzh5c3R2Qk9adlFOTDJvLUdQdDVqd3BXRjFIZmRSZW9JTXUtcDBtaHhSVlgwQlZ1SmstODJ0czVJc1NKdFMwNHNrRk9ZbDcyZVVEc2ZFaHlEQlpCN0R2bU1reGtpQXBZSjhsQ05aT01HODdkZi1HZk05dWo5T3Nabks5T3paMDhsUEhjTFlIaW1ub1ZsN2Y2azNHQlJFSmhOZVZUR1ZRbGJNSzJUZ1NLcWJvdXBEZGJMY0lONlR4eXNIZGZoM3dOVUR3S01hSG1xWjktWEl3QWpFVGhWMmFEemN5cjRHQW1mZS10LXBFcU1nQmZwUUdJTWpOR1RMYk1JNGVlTFJlcXdISU0?oc=5",
+   "fuente": "El Tiempo",
+   "fecha": "2026-11-17T12:59:25-05:00"
+  },
+  {
+   "titulo": "Auxiliar de Policía víctima de racismo en Cali fue exaltada y habló sobre la agresión",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeW9uazZRdTdWaFZqZHZyZW1kUzdsZkZ4TUZ1UU4yaG1mTjJzSnNrM2twUUx3b2s0dzljbDU3Q1VQSHllNUZLZUowN01GVjhZVkJYaXRHOTBxWjhPeXN3QXROa0tTOVVfZ0UtemFNZm14MkQ2dHBLaG9MZGd6aGJjd2hQY2RCd1pRd3dJZTNHaGhndWRxT3Z4NUdDdEcyRVNfU1dTNm9tVG9Ia3lIZENYVWtLX3hvYXRDcjdXWdIB0AFBVV95cUxQMmpPM0lXelNZSU1DM0w3TjZocGJzMWMwblRRclc5dERDMHptc1RjMDE0YUpzWC1yU1Vhc1VPbFlHbng4Y1k4X1NzeGo5Nll1eHV5Tnp1a25iSzFVdzBXUWs0LVJhSmt4Qi1sZFh4U3FLOW5SSXMxTXVrVmQwR1RXVGNhTXJKaThQSXVnMkdNRkcyR0tyODlHcnpmdWhPU2FBWHlUenpxLUItS2pidUJBVVl5RUIwUXhtanNYY21IQ1JiNDE2NXppXzFoS0djaW9B?oc=5",
+   "fuente": "Caracol Radio",
+   "fecha": "2026-11-17T12:20:09-05:00"
+  },
+  {
+   "titulo": "Patrullera fue víctima de insultos racistas: así reaccionó De la Espriella",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnBoQ2VNVm5LeVY3ZldIdnhTdDdhVm9JZWdMdlFxbER6Wnk0MERsbFJweXh3dEt5bm5fZDVBaHhYbzNyTnA2YVVSLU9zUXd2RGpjUTZzM2d0NkRLWWFDcXBEQVlWWlBpNC1SbWYwcXMwcDNlb1dWMUFTbkhfeDM5ZWhpQ3N2dXY3YmhrYWsyUjQ3ejBUdlByblR2ZVhCTlRhY2xsYmFyZnBydjBJbzdtMGdvYVJ0MEtOcGlDUkUyNmRQRWs?oc=5",
+   "fuente": "Eluniversal.com.co",
+   "fecha": "2026-11-17T12:14:00-05:00"
+  },
+  {
+   "titulo": "\"La dignidad humana se respeta\": Abelardo de la Espriella se pronuncia sobre caso de racismo contra policía en Cali",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOGlrZkpFM1VEZzUtdFhielE5ZkhHYmJHWTZTZkZONUJIbnpuWnNPWGFEZFhLRlZzVTgta2R2UmVCMW53TC1laWw1aThoRlJXTXZJT0h6RHpSVVpzelpzdzRRZ21ieU8zcEh1ay13bnRXbEwyalNud09FRnlSS3VuODYxVnk1VG9Rcy1rV1BlOElOWjdBdTdlVWZ5NHk2MWw3ZmZBeWpWdnp4aWIwVHRwR1dwXzlvdXRJaktlYnJYUzUwekhnR1BlcmNVaVdMS3VBbVp5c0M2RkV1VEFYRkNSOEwxM3dHLVBLcVZPakE2VE1KTkHSAfMBQVVfeXFMTl96MGFCeF9QaWt0TXMyRk1RRkZ0bFhUSGJkMkZzakhUYUV6M0lOaTgwSDNJdTFuUnVweE44UkFNaTNfSmtJdWxfUnNuTTF0Zmc0bkVRZlBvbGJqbUVGNTdoMGxXSlhfbmFPY1M3TTFIbFAtSFA0eThQaWwtOTBwOUQ2RDR5azJuS1hGUmpoMHNjbjRta3h6NGdCaXpuNE5kM2tyd2FDeGxXUnl2d28xVW9BUTR6NjRiMzBMcFEzYjV5cHR5VzMxMk9IOWh2eFZCOFNUWkVYRHhWdEFXR2ctNTk3QkxFTWJsMXM4VE5rSFlCcnJj?oc=5",
+   "fuente": "NTN24",
+   "fecha": "2026-11-17T12:01:25-05:00"
+  },
+  {
+   "titulo": "Cali exalta a auxiliar de Policía tras presuntos actos de racismo y suspende al señalado",
+   "url": "https://cwmas.com.co/suroccidente/cali/2026/11/17/racismo-cali-auxiliar-policia-suspension/",
+   "fuente": "CW+",
+   "fecha": "2026-11-17T12:00:00-05:00"
+  },
+  {
+   "titulo": "“El racismo y la discriminación no tienen cabida en Colombia”: Presidente rechaza agresión contra auxiliar de Policía en Cali",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQblpXallNLUFlbWlnTm4wLWowNW42cTVYTGpQSTNlWnBWUGFGMEcyamVmb2ZwRXNxMFZrM2tnUXBFcWNabWxrSnpZYmlQbnVDRmR1akhUZmt0U0tJS0doUGpZT0FwWVlCSW94OTRRZVVhbjNJcFp0STZzc3h0MV94dVU0MXpiWHg3WTRQb3pWNkl2ajJxbzI5NGpGM0dlaDg5RHlCS0xFUXluQi02NzdxQWhyS0pVWkE4c1BvUGw0Q29Rd2NEMzE1T1Q4bVdxa1JlX3ZyaUNHdlExZW4xemM2Qk1JZlFWWktlcXJVZU5fdnVBTWxHQ1R6ZnIwak1DV25rVDJNdVJR0gGGAkFVX3lxTFBuWldqWU0tQWVtaWdObjAtajA1bjZxNVhMalBJM2VacFZQYUYwRzJqZWZvZnBFc3EwVmsza2dRcEVxY1ptbGtKelliaVBudUNGZHVqSFRma3RTS0lLR2hQallPQXBZWUJJb3g5NFFlVWFuM0lwWnRJNnNzeHQxX3h1VTQxemJYeDdZNFBvelY2SXZqMnFvMjk0akYzR2VoODlEeUJLTEVReW5CLTY3N3FBaHJLSlVaQThzUG9QbDRDb1F3Y0QzMTVPVDhtV3FrUmVfdnJpQ0d2UTFlbjF6YzZCTUlmUVZaS2VxclVlTl92dUFNbEdDVHpmcjBqTUNXbmtUMk11UlE?oc=5",
+   "fuente": "El País",
+   "fecha": "2026-11-17T11:43:43-05:00"
+  },
+  {
+   "titulo": "“La dignidad humana se respeta”: De La Espriella tras racismo contra auxiliar en Cali",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZlZxa1dOY3RqYmkwZThXeWpyRmYzZjRFVnlJQzhXSDBRb2hjdlpHX0cwUko4elhQY2VMa0YwekszZnFUanFHU18wMzhEVU1aNGhiUVBsaW0wdHlDeTNrMFdtNHQ0U1JaREFBcG8yZU5LVHc3V2xMMUR5aWRyWXNDbG9qX2dQUVE?oc=5",
+   "fuente": "CW+ Noticias",
+   "fecha": "2026-11-17T11:35:41-05:00"
+  },
+  {
+   "titulo": "Abelardo De La Espriella reaccionó a insultos racistas contra patrullera de la Policía: anunció primeras medidas",
+   "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxONlFqN1BwT01nM3lMaE5qMVZzRHFZTFR1VDZhQXFQZ0p3a295ck1mb1VMZ3EwMjlsOEYxVl93bXQ2Q2NPdGNLUWpyYThHekFkNEhnX0FFX1Fsd0ptREc1X3BkeG1IM20xQVZGSDg4Vm1kTklqQi1DOXlkX1djQTRiVnRDS2JNRGxRZDFoMlhwdnR1SDBnZ0dDbF9kazRIZ3hiZmF5QkhyM3lJYjZGaUt3aEZYZDlKZ3JXcEc5ejE5MVdKUmFVMWpVRGlJZzlOUlBId2FIVjFzMFpOMl93VU1MVG1jTkQzaGFjbU90RmxiNmpXUdIB9wFBVV95cUxQUFRVSW1mbWo1OW1YQlU2WUw1NC1nQW1xcTFXdDMxdERkLXpWS2ltS09weUdIM2RYV2k4TXlLR2M0eGFfV0paNmlwemlBQm4xeUxleUh0b0UyUndGTzl0aG56Y3RBZWxPTkFmNnBuS2ZCSlNfYUtsYnFzTXdVYUpiZERURVk4VWUxRWFhTkZ5R3lVV1ByZUFQMDJ2a05ZaldTbHJDS1dETnRxa0JsSU1VXzNEUC01Zl8zOEtvSXpaaXZFWVQwaW5iRkJsRFZINHVtS0h5Q3AzQnozRjhtODlyRkdhaTZ0aE1sbEFfOGhQZXM5aS1nQ1c0?oc=5",
+   "fuente": "Revista Semana",
+   "fecha": "2026-11-17T11:29:02-05:00"
+  },
+  {
+   "titulo": "Abelardo de la Espriella anunció medidas tras ataque racista contra una auxiliar de Policía en Cali: “Nadie puede sentirse con derecho a humillar a otro por su raza”",
+   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNVG1zR0JZMlNZYjZiRFZQMzR5Q1IySFZuakJVRjUwX2J6ZWFWN0ZtaHhfUGtVS0JNd2UzZXFpNXhPWnJJNThBTlZwMF8zSGlXSEUtTFpjQmtaTHVhOHlwek9zWmh1NGV3VzNqZWVQZ1puR1RLaVBXNmRkQnJpaEc4dUV3REFua1NLcklyU2lxSEwtZWMwODllSm9FQWE2VWgzYzF6dTVoZW1PUzc0MjRHdEZVX3gwT1NGS2g1RDNtcEQ4aF9yS3JfMDJYcWtpWTJWODJib1V2WWtYWllpZFIwV1B3TDF3aFZMSHY0NEJXMmFqVGo1MTNwVk9IdHJFMElUV2hQdlRPTnNxOFdiTmxJaTRzSm1zTHFJTjdOS1RLNnFXT3BuejMw0gHCAkFVX3lxTE93LTltV3dPQnUtRmE3aGlId3NEV25CYXVjRk5fR1hOVjJSbUdFOGxTVWcwLVVZREp4Q2swUENFVU9aNExDcjNsTnBrOW5icU51bF9Rd0lDWHhIUGI1QUNTYV9mMV9sTGl0aHYtWmZUbWNXNVlPbHB6TTFDejZPTng1MzlmcjJFLUc3WldkazN6RGZaOS1qQUlNbTVTNjdYdzU3WU9kNTh1Um02MEJ1bnYwMTVvcl9haXNvQldYSk53b3JQR2JOODhJcHZDaVhEUkNBOXFsNDJoeUFIZF9HbmhKWHdac0w2Y2h2RnNQZG9PZVQtaWdncVlONGw4OW41Q2J2ZFM2MHdZQW1oblViN2VkTEU1STh5Q2I0MmJCd01YZFJzMldET1Y1RFZKbWRwYmV2ejdLTjlyZlgzekhmTHBES1E?oc=5",
+   "fuente": "Infobae",
+   "fecha": "2026-11-17T11:26:00-05:00"
+  },
+  {
+   "titulo": "Mindefensa rechazó insultos racistas contra una auxiliar de Policía en Cali",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSHYtenV5cVEtWllXSzVrLXg5TWk1OVA3R0FpRWRkTHE1LWJ0a1VoNGE0LUV4Rk5tdmVNZ3ZMS1dUSUM3ZG1EZ1g5cVU3WkVsMFk2S1QxOEluRDZrLUdGcHlDUE1zWmxGb1FXbF9DM2gzV28tN21kdmJqWE9rZW5xZzAwMjNySElucUZjVGJFYWlwVTYzVl9JNHRRQ1N4dEdDVXVJb0oyODFUNTRVMG9KOFJSSWU?oc=5",
+   "fuente": "IFM Noticias",
+   "fecha": "2026-11-17T11:01:49-05:00"
+  }
+ ]
 }

@@ -1,0 +1,47 @@
+{
+ "fecha": "2026-11-18T12:46:09-05:00",
+ "fotos": [
+  {
+   "archivo": "img/foto-1.jpg",
+   "titulo": "Afro Colombianos by Maria Claudia.jpg",
+   "autor": "Maria Claudia from Colombia",
+   "licencia": "CC BY-SA 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Afro_Colombianos_by_Maria_Claudia.jpg"
+  },
+  {
+   "archivo": "img/foto-2.jpg",
+   "titulo": "Festival Petronio Álvarez (Cali).jpg",
+   "autor": "Julián Salazar Valencia",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Festival_Petronio_%C3%81lvarez_(Cali).jpg"
+  },
+  {
+   "archivo": "img/foto-3.jpg",
+   "titulo": "Policia Nacional de Colombia, Comando de Mujeres.jpg",
+   "autor": "Policía Nacional de los colombianos",
+   "licencia": "CC BY-SA 2.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Policia_Nacional_de_Colombia,_Comando_de_Mujeres.jpg"
+  },
+  {
+   "archivo": "img/foto-4.jpg",
+   "titulo": "San basilio de palenque - panoramio (2).jpg",
+   "autor": "kosmel bonfante",
+   "licencia": "CC BY 3.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:San_basilio_de_palenque_-_panoramio_(2).jpg"
+  },
+  {
+   "archivo": "img/foto-5.jpg",
+   "titulo": "Panorámica - Cali - Valle del Cauca - Colombia.jpg",
+   "autor": "Neoredacturus",
+   "licencia": "CC BY-SA 4.0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Panor%C3%A1mica_-_Cali_-_Valle_del_Cauca_-_Colombia.jpg"
+  },
+  {
+   "archivo": "img/foto-6.jpg",
+   "titulo": "Mural en homenaje a Jilmar “El Mello” – AfroUdeA, bloque 2, Universidad de Antioquia 02.jpg",
+   "autor": "Laollietopia",
+   "licencia": "CC0",
+   "fuente": "https://commons.wikimedia.org/wiki/File:Mural_en_homenaje_a_Jilmar_%E2%80%9CEl_Mello%E2%80%9D_%E2%80%93_AfroUdeA,_bloque_2,_Universidad_de_Antioquia_02.jpg"
+  }
+ ]
+}
