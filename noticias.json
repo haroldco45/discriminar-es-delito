@@ -1,6 +1,18 @@
 {
- "actualizado": "2026-11-20T07:22:37-05:00",
+ "actualizado": "2026-11-20T15:37:08-05:00",
  "noticias": [
+  {
+   "titulo": "Manifiesto de una realidad incómoda para Cali: el racismo continúa presente en distintos espacios de la vida cotidiana y sus consecuencias no se limitan a las agresiones verbales.",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNbTAtdkNrWFRlWXUwNlBkbmwtQlNrM0c1VG1OOHFnOERBNkozTXZ3bE95aEYwUHE3c04ycjQ3ZHctN2VSZHZodmxSMWg1OVRqQThzTzMxaUZZcE0wZzA1Q05tZGNZVjlWZjVvVmo2dE16UWNkMjJUamtfVmQtdXJwNjF2QUVEbXo0R2M4ZTZ6QXRwOWJrVXpJcWxseTJTSmExNTkzZ01oSldMeEpmZF8zanJiMUxxVVJrVmtEYUxFQUNmR2R3TEdzRDBSTWRmb1lKdXpaZk8xaXpMNUpuSHRuNl9weWZCZXcxLTNPV3NQTFJmV0RYa2RZUVhkSmlsWGNrWGxVSXhPYThZUEh0bmR6WEdCUDR3NElpbkl6SEU1ajkyUjliWFRWQl9qazZoY01YR1NIZUE0RmNoUVFTTDNR?oc=5",
+   "fuente": "DDC",
+   "fecha": "2026-11-20T12:21:13-05:00"
+  },
+  {
+   "titulo": "El racismo en Cali, una realidad que va más allá de los insultos",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcmQ1bERBcmZDRU5qVVUzcldta2hNQm1OaUN4c2NKWXFZMG0wWmRuc3RPb3hERmtJZW52VUp3NE9OQ3J5U1d0dnctVHpPbXBSUHJpS0VRUnRLZWh1dW5vdWNyTTU5aEh3cEtmcTVMWXVYc2NheGp5MVl0eWYzQXJ3MFp1QmcxVVEwR1VSZ2hPdU9NWDJrS3FreTc1QWNhNXFaZDVtNUJyWV9WQW_SAb8BQVVfeXFMTTQ4LWIxeGlPRGNZeVJfaVUxZzhScVlLLWpuX1VaT0p1dHRxajU5eUFtRUlYa2VrOUh5QTlmRUhmWVJmR1ZPY0p4OXAzSko3YVd3ZTAzRE1iX2RkeUppT2lXSV9RQXp2aFlCVE5SQlp5Mm1Uc2FQdHgzNDAzX0lENXVGeEV6Njlud2hFMjlZMWhCQk83RXJCTExtaGYtWkJMNXQ5eHBSMXNkdU1sNWt0cHNuVHRieHBZUUw0X3VvODg?oc=5",
+   "fuente": "El Espectador",
+   "fecha": "2026-11-20T12:00:33-05:00"
+  },
   {
    "titulo": "La auxiliar de policía en Cali recibió insultos racistas el 15 de noviembre, reflejando el racismo estructural en Colombia.",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BWm9GQy1ZM3FCa0xTR1J3ekxJNXk2eVBHUENLRW1JUG1YdGNyU3VhWjRfeG5YMG5JX2dadTU2ZjM2Ny13QUpPWWVyNm9TbWYxcU5JcGN2cjlhVGJHUHU3bHBXei1PamhqNkV2bl83NGM?oc=5",
@@ -228,18 +240,6 @@
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTnBoQ2VNVm5LeVY3ZldIdnhTdDdhVm9JZWdMdlFxbER6Wnk0MERsbFJweXh3dEt5bm5fZDVBaHhYbzNyTnA2YVVSLU9zUXd2RGpjUTZzM2d0NkRLWWFDcXBEQVlWWlBpNC1SbWYwcXMwcDNlb1dWMUFTbkhfeDM5ZWhpQ3N2dXY3YmhrYWsyUjQ3ejBUdlByblR2ZVhCTlRhY2xsYmFyZnBydjBJbzdtMGdvYVJ0MEtOcGlDUkUyNmRQRWs?oc=5",
    "fuente": "Eluniversal.com.co",
    "fecha": "2026-11-17T12:14:00-05:00"
-  },
-  {
-   "titulo": "\"La dignidad humana se respeta\": Abelardo de la Espriella se pronuncia sobre caso de racismo contra policía en Cali",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQOGlrZkpFM1VEZzUtdFhielE5ZkhHYmJHWTZTZkZONUJIbnpuWnNPWGFEZFhLRlZzVTgta2R2UmVCMW53TC1laWw1aThoRlJXTXZJT0h6RHpSVVpzelpzdzRRZ21ieU8zcEh1ay13bnRXbEwyalNud09FRnlSS3VuODYxVnk1VG9Rcy1rV1BlOElOWjdBdTdlVWZ5NHk2MWw3ZmZBeWpWdnp4aWIwVHRwR1dwXzlvdXRJaktlYnJYUzUwekhnR1BlcmNVaVdMS3VBbVp5c0M2RkV1VEFYRkNSOEwxM3dHLVBLcVZPakE2VE1KTkHSAfMBQVVfeXFMTl96MGFCeF9QaWt0TXMyRk1RRkZ0bFhUSGJkMkZzakhUYUV6M0lOaTgwSDNJdTFuUnVweE44UkFNaTNfSmtJdWxfUnNuTTF0Zmc0bkVRZlBvbGJqbUVGNTdoMGxXSlhfbmFPY1M3TTFIbFAtSFA0eThQaWwtOTBwOUQ2RDR5azJuS1hGUmpoMHNjbjRta3h6NGdCaXpuNE5kM2tyd2FDeGxXUnl2d28xVW9BUTR6NjRiMzBMcFEzYjV5cHR5VzMxMk9IOWh2eFZCOFNUWkVYRHhWdEFXR2ctNTk3QkxFTWJsMXM4VE5rSFlCcnJj?oc=5",
-   "fuente": "NTN24",
-   "fecha": "2026-11-17T12:01:25-05:00"
-  },
-  {
-   "titulo": "Cali exalta a auxiliar de Policía tras presuntos actos de racismo y suspende al señalado",
-   "url": "https://cwmas.com.co/suroccidente/cali/2026/11/17/racismo-cali-auxiliar-policia-suspension/",
-   "fuente": "CW+",
-   "fecha": "2026-11-17T12:00:00-05:00"
   }
  ]
 }
